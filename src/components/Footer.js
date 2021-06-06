@@ -7,11 +7,11 @@ class Footer extends React.Component {
 
     // we extend the React Component to use the React method (behavior) render
     render() { // will render anything within the return Statement 
-        const myName = 'Majd Khasawneh';
+        const myName = 'Majd Khasawneh ';
         return (
 
             <footer>
-                <span>Made by {myName}</span>
+                <span>Made by {myName} &copy; </span>
             </footer>
 
         )
