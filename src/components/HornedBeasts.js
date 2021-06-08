@@ -3,6 +3,7 @@ import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 import Modal from 'react-bootstrap/Modal'
 
+
 class HornedBeasts extends React.Component {
     constructor(props) {
         super(props);
