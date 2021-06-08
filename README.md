@@ -1,3 +1,34 @@
+Number and name of feature: #1: Display images
+
+Estimate of time needed to complete: 1hour
+
+Start time: 2PM
+
+Finish time: 3PM
+
+Actual time needed to complete:1 hour
+
+Number and name of feature: Allow users to vote for their favorite beast
+
+Estimate of time needed to complete: 1 hour 
+
+Start time: 3:10 pm
+
+Finish time: 4:10 pm
+
+Actual time needed to complete: 1 hour
+
+Number and name of feature: Bootstrap
+
+Estimate of time needed to complete: on progress 
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
